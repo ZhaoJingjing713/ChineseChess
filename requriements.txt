@@ -1,0 +1,8 @@
+PyQt5
+socket
+numpy
+pygame
+threading
+tensorflow1.15
+xlrd
+xlutils
